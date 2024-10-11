@@ -638,6 +638,7 @@ C:.
 - [Blue-Green 무중단 배포 과정 및 트러블슈팅](https://www.notion.so/drskele/Blue-Green-e1592fb3632541898463be42552f5577?pvs=4)
 - [AR 트러블 슈팅](https://www.notion.so/drskele/AR-35b539f0746a4440bfece3b72a6162e8?pvs=4)
 - [Redis 직렬화 문제 해결](https://www.notion.so/drskele/Redis-7389efb553494e3592c3f5082e200f9c?pvs=4)
+- [Redis 역직렬화 문제 해결](https://www.notion.so/drskele/Species-0155207c70844c77bb58cefc8b3ab5bf?pvs=4)
 
 ## 8. 성능 개선한 목록 ⚡
 
